@@ -1,0 +1,46 @@
+.wrapper {
+    min-height: 100%;
+    display: grid;
+    grid-gap: 15px;
+    grid-template-columns: minmax(200px, 0.333fr) 1fr;
+    grid-template-rows: auto 1fr auto;
+    grid-template-areas: 
+        "header header"
+        "aside page"
+        "footer footer"
+    ;
+
+}
+
+
+.header {
+    grid-area: header;
+    border: 2px solid #000;
+}
+.aside {
+    grid-area: aside;
+    border: 2px solid #000;
+}
+.page {
+    grid-area: page;
+    border: 2px solid #000;
+}
+
+.page__start {
+}
+
+.page__begin {
+}
+
+
+
+.start {
+}
+
+.begin {
+}
+
+.footer {
+    grid-area: footer;
+    border: 2px solid #000;
+}

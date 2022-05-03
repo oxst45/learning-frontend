@@ -1,0 +1,21 @@
+// Google/ Yandex / YouTube
+
+// NodeJS
+// React
+// TS / TSX
+
+// Component
+// Props
+
+// Lifecycle
+// - Class Component (State)
+// - Hooks (State)
+// - Redux (State) - thunk / saga
+
+// Ant design
+// HOC
+
+// Routing
+
+// WebSocket - чаты
+// Rest API
